@@ -2,7 +2,7 @@ baseURL = "https://danysk.github.io/Template-Hugo-Reveal-Slides"
 languageCode = "en-us"
 title = "A Hugo theme for creating Reveal.js presentations"
 disableKinds = ["sitemap", "RSS"]
-theme = "reveal-hugo/themes/sunblind.css"
+theme = "reveal-hugo"
 publishDir = "build"
 
 # uncomment for browsing at file:///
